@@ -6,6 +6,7 @@
     {meta}
 
     <title>Clean Blog - Start Bootstrap Theme</title>
+    <!-- TEST -->
 
     {css}
 
